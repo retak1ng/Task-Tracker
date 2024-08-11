@@ -1,13 +1,6 @@
 [
   {
-    "id": null,
-    "description": "Buy groceries",
-    "status": "todo",
-    "createdAt": "2024-08-09T17:30:28.305Z",
-    "updateAt": "2024-08-09T17:30:28.305Z"
-  },
-  {
-    "id": 2,
+    "id": 1,
     "description": "Buy groceries",
     "status": "in-progress",
     "createdAt": "2024-08-09T17:37:44.946Z",
@@ -15,7 +8,7 @@
     "updatedAt": "2024-08-09T17:39:05.762Z"
   },
   {
-    "id": 3,
+    "id": 2,
     "description": "Buy groceries",
     "status": "done",
     "createdAt": "2024-08-09T17:37:49.045Z",
